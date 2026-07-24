@@ -140,20 +140,24 @@ http://localhost:8501
 ---
 
 ## 📷 Application Preview
-```
+
 ### Home Page
+```
 images/home_page.png
+```
 
 ### Prediction Page
+```
 images/prediction_page.png
 images/predicted_price.png
+```
 
 ### Dashboard
+```
 images/dashboard_1.png
 images/dashboard_2.png
 
----
-
+```
 ## 📌 Future Improvements
 
 - Support more cities.
