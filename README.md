@@ -140,6 +140,7 @@ http://localhost:8501
 ---
 
 ## 📷 Application Preview
+```
 ### Home Page
 images/home_page.png
 
